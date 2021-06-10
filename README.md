@@ -1,16 +1,18 @@
-### Hi there 👋
+Oi, bem-vindo ao meu perfil!
 
-<!--
-**matheusncodello/matheusncodello** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Atualmente, venho tabalhando em aprimorar meu conhecimento em programação
+- 🌱 Atualmente, venho aprendendo com maior profundidade sobre WEB
 
-Here are some ideas to get you started:
+**Linguagens que utilizo:**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<code><img height="20" src="https://raw.githubusercontent.com/rhoit/mode-icons/dump/icons/html.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/rhoit/mode-icons/dump/icons/css.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/rhoit/mode-icons/dump/icons/js.png"></code>
+
+**Status:**
+<a href="https://github.com/matheusncodello">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusncodello&title_color=b7bebe&icon_color=0329AB&text_color=e8eaea&bg_color=171515&hide_langs_below=1" />
+</a>
+<a href="https://github.com/matheusncodello">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=matheusncodello&&show_icons=true&title_color=b7bebe&icon_color=0329AB&text_color=e8eaea&bg_color=171515" />
+</a>
