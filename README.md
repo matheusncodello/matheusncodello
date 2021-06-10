@@ -10,6 +10,7 @@ Oi, bem-vindo ao meu perfil!
 <code><img height="20" src="https://raw.githubusercontent.com/rhoit/mode-icons/dump/icons/js.png"></code>
 
 **Status:**
+
 <a href="https://github.com/matheusncodello">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusncodello&title_color=b7bebe&icon_color=0329AB&text_color=e8eaea&bg_color=171515&hide_langs_below=1" />
 </a>
