@@ -8,6 +8,7 @@ Oi, bem-vindo ao meu perfil!
 <code><img height="20" src="https://raw.githubusercontent.com/rhoit/mode-icons/dump/icons/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/rhoit/mode-icons/dump/icons/css.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/rhoit/mode-icons/dump/icons/js.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg"></code>
 
 **Status:**
 
