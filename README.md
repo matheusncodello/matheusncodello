@@ -15,6 +15,12 @@
   <img align="center" alt="C++" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg">
 </div>
 
+**Linguagens antigas:**
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="C++" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg">
+</div>
+
 ##
 
 **Status:**
