@@ -20,7 +20,7 @@
   <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
   <img align="center" alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
   <img align="center" alt="MicrosoftSQL" src="https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
-  <img align="center" alt="Azure" src="	https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white">
+  <img align="center" alt="Azure" src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white">
 </div><br>
 
 **Frameworks**
@@ -40,7 +40,7 @@
 <div style="display: inline_block">
   <img align="center" alt="VSCode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
   <img align="center" alt="Intellij" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
-  <img align="center" alt="Xcode" src="https://img.shields.io/badge/Xcode-007ACC?style=flat-square&logo=Xcode&logoColor=white">
+  <img align="center" alt="Xcode" height="28px" src="https://img.shields.io/badge/Xcode-007ACC?style=flat-square&logo=Xcode&logoColor=white">
   <img align="center" alt="Arduino IDE" src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white">
 </div><br>
 
