@@ -48,7 +48,7 @@
 
 <div style="display: inline_block">
   <img align="center" alt="Arduino" src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white">
-</div><br>
+</div>
 
 ##
 
