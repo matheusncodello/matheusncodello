@@ -1,5 +1,5 @@
 ## <div align="center"><code>Oi, bem-vindo ao meu perfil!</code></div><br>
-
+<div align="center">
 **Linguagens utilizadas**
  
 <div style="display: inline_block">
@@ -48,6 +48,7 @@
 
 <div style="display: inline_block">
   <img align="center" alt="Arduino" src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white">
+</div>
 </div>
 
 ##
