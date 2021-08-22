@@ -52,16 +52,15 @@
 
 ##
 
-**Status:**
+**Status**
 
-<div style="display: flex; justify-content: center">
-  <a href="https://github.com/matheusncodello">
-    <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusncodello&title_color=b7bebe&icon_color=0329AB&text_color=e8eaea&bg_color=171515&hide_langs_below=1" />
-  </a>
-  <a href="https://github.com/matheusncodello">
-    <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=matheusncodello&&show_icons=true&title_color=b7bebe&icon_color=0329AB&text_color=e8eaea&bg_color=171515" />
-  </a>
-</div>
+<a href="https://github.com/matheusncodello">
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusncodello&title_color=b7bebe&icon_color=0329AB&text_color=e8eaea&bg_color=171515&hide_langs_below=1" />
+</a>
+<a href="https://github.com/matheusncodello">
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=matheusncodello&&show_icons=true&title_color=b7bebe&icon_color=0329AB&text_color=e8eaea&bg_color=171515" />
+</a>
+
 
 <!-- <code></code> -->
 
