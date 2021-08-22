@@ -1,4 +1,4 @@
-## <code>Oi, bem-vindo ao meu perfil!</code><br><br>
+## <code align="center">Oi, bem-vindo ao meu perfil!</code><br><br>
 
 **Linguagens utilizadas**
  
